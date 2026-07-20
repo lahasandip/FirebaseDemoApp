@@ -58,3 +58,10 @@ The app utilizes **7+ Firebase services** to provide a complete backend infrastr
 1.  Add your `google-services.json` to the `app/` folder.
 2.  Enable **Email Auth**, **Firestore**, and **Remote Config** in the Firebase Console.
 3.  Run the app and start trading!
+
+## Demo:
+
+
+https://github.com/user-attachments/assets/69034023-9d97-46fe-a1cd-23e5b9e542a4
+
+
